@@ -1,0 +1,10 @@
+1)  Başla
+2)  Kullanıcı zar atmaya tıklar
+3)  İki zar atılır
+4)  Eğer 1.zar 2.zardan büyükse 
+5)  1.zarın kazandığı bilgisi listeye eklenir
+6)  Eger 2.zar 1.zardan büyükse 
+7)  2.zarın kazandığı bilgisi listeye eklenir
+8)  Eğer 1.zar 2.zara eşitse 
+9)  3.maddeye git
+10) Bitir
